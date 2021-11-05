@@ -29,5 +29,6 @@ console.log(arr[1]);
 
 let decr = 12;
 let acr = decr++;
+let note=22;
 
 console.log(acr)
